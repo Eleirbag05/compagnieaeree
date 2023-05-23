@@ -1,2 +1,2 @@
 # compagnieaeree
-list of compagnie aeree
+list of airlines
